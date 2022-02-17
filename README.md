@@ -1,0 +1,4 @@
+-Hi, I’m @ValpsZ
+-I’m interested in ai and analytics
+-I’m currently learning python ai codeing
+-If I would be know for anything on this page it should be my RPS ai
