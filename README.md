@@ -1,4 +1,7 @@
--Hi, I’m @ValpsZ
--I’m interested in ai and analytics
--I’m currently learning python ai codeing
--If I would be know for anything on this page it should be my RPS ai
+# Hi there, I'm @ValpsZ! 👋
+
+🧠 Fascinated by the realms of AI and analytics, I dive deep into understanding the intricate workings of intelligent systems.
+
+🌱 Currently, I'm immersed in the world of Python AI coding, continuously honing my skills and exploring new avenues in this dynamic field.
+
+💡 If there's one thing you should know me for on this page, it's **simple_genetic** - a project close to my heart, embodying the fusion of simplicity and innovation in genetic algorithms.
