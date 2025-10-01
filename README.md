@@ -1,4 +1,4 @@
-# I'm @ValpsZ! 
+# I'm @ValpsZ
 
 ## Current project
-- Remake rust crates from scratch to avoid bloat
+- Nothing public (yet...)
